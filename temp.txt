@@ -1,0 +1,5 @@
+api.openweathermap.org/data/2.5/weather?q={city name}&appid={API key}
+
+7a4e25ca85de2d0bff5bf2d445ee9085
+
+http://api.openweathermap.org/data/2.5/weather?q=Guwahati&appid=7a4e25ca85de2d0bff5bf2d445ee9085
